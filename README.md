@@ -1,5 +1,5 @@
 # JavaScript exercise 4 - Clock
-> My fourth practical project while learning JavaScript. [Click here to preview](https://karbudzik.github.io/JavaScript-exercise-4-Clock/) 
+> My fourth practical project while learning JavaScript. [Click here to preview](https://karbudzik.github.io/JavaScript-exercise-4-clock/)  
 > Script based on the JavaScript30 challenge, with new visual layout.
 
 
